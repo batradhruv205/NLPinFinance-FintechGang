@@ -34,4 +34,4 @@ For data processing, things became a little bit easier. Our main challenge here 
 
 Now all data is ready for running the model, we will follow along the lecture notes and let's see what will turn out. 
 
-### [Click here to check out my group's final report!](Documents/FinalReport.pdf)
+### [Click here to check out my group's final report!](docs/Documents/FinalReport.pdf)
