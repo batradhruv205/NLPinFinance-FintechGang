@@ -1,4 +1,4 @@
-##What we thought – 
+## What we thought – 
 
 The key idea behind this project was to make easy money investigate Earnings Releases and try to find some insights from textual data that surround these Releases. When companies publish their finances, markets react according to the results of their investments’ accounts. While it would be great to be able to buy or sell in markets right after getting your hands on these published reports, earnings are usually released after market hours, disallowing investors to make a profit from them. Consequently, we wanted to explore whether we could identify any leading indicators of how a company’s report card would turn out.
 There is a plethora of information available in the public knowledge sphere that supposedly makes markets efficient and could possibly be very good indicators of what investors should be expecting from earnings calls. Given this, markets already have an established expectation of companies’ accounting numbers that are readily available on several sources such as Yahoo! Finance (different outlets have their own methods of calculating this). Further, these expectations are already priced into the market long before the numbers are published. Therefore, the only opportunity of profiting out of this situation is to be able to predict surprises in these earnings.
@@ -7,7 +7,7 @@ While we could dig through the aforementioned information sources such as news a
 We chose to look at 3 popular social media sources – Twitter, StockTwits and Reddit. We chose Twitter because it is where “everybody is”, StockTwits because it is where “investors are” and Reddit because it is where users have a “superiority complex” about their knowledge and intellect. We felt that these three platforms would give us a complete picture of what investors believe about the performance of these companies and could possibly be the goldmine for predicting earnings surprises. What did we find? Check out our next blog to find out!
 
 
-##Reflection on our project journey 
+## Reflection on our project journey 
 
 This blog is written to document our reflection on what we have observed and learnt so far. We will share some difficulties we encounter and our takeaways from them. 
 As we have discussed in our first presentation, the first step of our project is data collection. We located 3 different sources for getting our textual data, namely Reddit, Twitter and Stocktwits and Yahoo Finance for obtaining all earnings release. 
