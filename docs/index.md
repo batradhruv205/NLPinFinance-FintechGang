@@ -18,4 +18,4 @@ As our philosophy predicts, there is a solution on GitHub. We modified the estab
 For data processing, things became a little bit easier. Our main challenge here is how to deal with the discrepancy between theory and practical applications. Even though we are provided with complete examples in lecture notes but in reality when we are doing text preprocessing we do have to decide whether a particular type of text poses meaning to our analysis. For example, we decided to remove the links and the symbols of the tickers in addition to the conventional methods looking at their high frequency of occurrences in our textual data. It is about how to make good use of what we learn from the lectures in a constructive way. 
 Now all data is ready for running the model, we will follow along the lecture notes and let's see what will turn out. 
 
-### [Click here to check out my group's final report!]("Final Report.pdf")
+### [Click here to check out my group's final report!](Final Report.pdf)
