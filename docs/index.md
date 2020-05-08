@@ -1,5 +1,3 @@
-
-
 ##What we thought – 
 
 The key idea behind this project was to make easy money investigate Earnings Releases and try to find some insights from textual data that surround these Releases. When companies publish their finances, markets react according to the results of their investments’ accounts. While it would be great to be able to buy or sell in markets right after getting your hands on these published reports, earnings are usually released after market hours, disallowing investors to make a profit from them. Consequently, we wanted to explore whether we could identify any leading indicators of how a company’s report card would turn out.
